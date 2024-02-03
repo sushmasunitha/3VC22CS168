@@ -2,5 +2,5 @@
 void main()
 {
   printf("c program");
-getch();
+  getch();
 }
